@@ -1,5 +1,5 @@
 <h1>Hi there 👋🏻 I'm Omri 👨🏻‍💻</h1>
-<h2>I might only be 17, but programming is my dream!</h2>
+<h2>💻 I might only be 17, but programming is my dream! 💻</h2>
 
 <h3>Technologies I'm using:</h3>
 
