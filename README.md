@@ -15,7 +15,7 @@
 <h3>Technologies I'll be learning next:</h3>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<h3>Connect with me:</h3>
+<h2>Connect with me:</h2>
 <a href="https://www.linkedin.com/in/omri-green-880091240/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!--
 **OGreeni/OGreeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
