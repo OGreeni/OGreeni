@@ -3,7 +3,7 @@
 https://omrigreen.com
 
 
-<h3>Technologies I'm using:</h3>
+<h3>Technologies I'm using (or currently learning):</h3>
 
 <h4>Frontend:</h4>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
