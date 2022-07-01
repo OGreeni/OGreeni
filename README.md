@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omri Green</h1>
 <h3 align="center">A passionate frontend developer from NJ, USA</h3>
 
-- 🌱 I’m currently learning **Node.js, MongoDB, TypeScript**
+- 🌱 I’m currently learning **NodeJS, MongoDB, TypeScript, NextJS**
 
 - 👨‍💻 My portfolio site [omrigreen.com](omrigreen.com)
 
