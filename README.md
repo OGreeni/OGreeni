@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omri Green</h1>
+<h1 align="center">Hi 👋🏻, I'm Omri Green</h1>
 <h3 align="center">A passionate frontend web developer based in NJ, USA</h3>
 
 - 🌱 I’m currently learning **NodeJS, MongoDB, TypeScript, NextJS**
