@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.JS, TypeScript**
 
-- 👨‍💻 My Personal website/blog [omrigreen.com](omrigreen.com)
+- 👨‍💻 My Personal website/blog [omrigreen.com](https://www.omrigreen.com)
 
 - 💬 Ask me about **React, JavaScript**
 
