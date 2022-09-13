@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏻, I'm Omri Green</h1>
 <h3 align="center">A passionate full-stack developer based in NJ, USA</h3>
 
-- 🌱 I’m currently learning **NodeJS, MongoDB, TypeScript**
+- 🌱 I’m currently learning **Next.JS, TypeScript**
 
-- 👨‍💻 My portfolio site [omrigreen.com](omrigreen.com)
+- 👨‍💻 My Personal website/blog [omrigreen.com](omrigreen.com)
 
 - 💬 Ask me about **React, JavaScript**
 
