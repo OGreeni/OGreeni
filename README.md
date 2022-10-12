@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Omri Green</h1>
-<h3 align="center">A passionate full-stack developer based in NJ, USA</h3>
+<h3 align="center">A passionate frontend developer based in NJ, USA</h3>
 
 - 🌱 I’m currently learning **Next.JS, TypeScript**
 
