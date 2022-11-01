@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Omri Green</h1>
 <h3 align="center">A passionate frontend developer based in NJ, USA</h3>
 
-- 🌱 I’m currently learning **Next.JS 13**
+- 🌱 I’m currently learning **Next.js 13**
 
 - 👨‍💻 My Personal blog [omrigreen.com](https://www.omrigreen.com)
 
