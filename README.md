@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋🏻, I'm Omri Green</h1>
 <h3 align="center">A passionate frontend developer based in NJ, USA</h3>
 
-- 🌱 I’m currently learning **Next.JS, TypeScript**
+- 🌱 I’m currently learning **Next.JS 13**
 
-- 👨‍💻 My Personal website/blog [omrigreen.com](https://www.omrigreen.com)
+- 👨‍💻 My Personal blog [omrigreen.com](https://www.omrigreen.com)
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React, JavaScript, Next.js**
 
 - 📫 How to reach me **omri.green1@gmail.com**
 
