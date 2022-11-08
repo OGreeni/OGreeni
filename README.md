@@ -5,7 +5,7 @@
 
 - 👨‍💻 My Personal blog [omrigreen.com](https://www.omrigreen.com)
 
-- 💬 Ask me about **React, JavaScript, Next.js**
+- 💬 Ask me about **React.js, JavaScript, Next.js**
 
 - 📫 How to reach me **omri.green1@gmail.com**
 
