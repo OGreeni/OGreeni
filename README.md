@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js 13**
 
-- 👨‍💻 My Personal blog [omrigreen.com](https://www.omrigreen.com)
+- 👨‍💻 My personal blog [omrigreen.com](https://www.omrigreen.com)
 
 - 💬 Ask me about **React.js, JavaScript, Next.js**
 
