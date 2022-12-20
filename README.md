@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Next.js 13**
 
+- 📹 My YouTube channel [OGreeni](https://www.youtube.com/@ogreeni)
+
 - 👨‍💻 My personal blog [omrigreen.com](https://www.omrigreen.com)
 
 - 💬 Ask me about **React.js, JavaScript, Next.js**
