@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋🏻, I'm Omri Green</h1>
 <h3 align="center">A passionate frontend developer based in NJ, USA</h3>
 
-- 🌱 I’m currently learning **Next.js 13**
+- 🌱 I’m currently learning: **Next.js 13**
 
-- 📹 My YouTube channel [OGreeni](https://www.youtube.com/@ogreeni)
+- 📹 My YouTube channel: [OGreeni](https://www.youtube.com/@ogreeni)
 
-- 👨‍💻 My personal blog [omrigreen.com](https://www.omrigreen.com)
+- 👨‍💻 My webdev blog (updated site soon): [omrigreen.com](https://www.omrigreen.com)
 
-- 💬 Ask me about **React.js, JavaScript, Next.js**
+- 💬 Ask me about: **React.js, JavaScript, Next.js**
 
-- 📫 How to reach me **omri.green1@gmail.com**
+- 📫 How to reach me: **omri.green1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
