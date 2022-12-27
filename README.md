@@ -5,7 +5,7 @@
 
 - 📹 My YouTube channel: [OGreeni](https://www.youtube.com/@ogreeni)
 
-- 👨‍💻 My webdev blog (updated site soon): [omrigreen.com](https://www.omrigreen.com)
+- 👨‍💻 My webdev blog (to be updated): [omrigreen.com](https://www.omrigreen.com)
 
 - 💬 Ask me about: **React.js, JavaScript, Next.js**
 
