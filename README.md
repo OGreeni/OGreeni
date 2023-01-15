@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Omri Green, a passionate frontend developer based in NJ, USA 👨🏻‍💻</div>  
+  ### <div align="center">I'm Omri Green, a passionate frontend developer based in NJ, USA 👨🏻‍💻</div>  
   
 
 - 📝 I regularly write articles on **www.omrigreen.com**  
