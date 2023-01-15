@@ -2,7 +2,8 @@
   
 
 - 📝 I regularly write articles on **www.omrigreen.com**  
-  
+
+- 📝 I'm currently working on [**ReactSprint**](https://github.com/ogreeni/reactsprint)
 
 - 🌱 I’m currently learning **Next.js 13**  
   
@@ -13,7 +14,7 @@
 - 📫 How to reach me: **omri.green1@gmail.com**  
   
 
-* 📄 Learn about my experience: [**resume link**](https://docs.google.com/document/d/1eCyBGoi7sRN0WjCP0jcwRa7st46482TW3yceKPVI9n0/edit)  
+- 📄 Learn about my experience: [**resume link**](https://docs.google.com/document/d/1eCyBGoi7sRN0WjCP0jcwRa7st46482TW3yceKPVI9n0/edit)  
   
 
 <br/>  
