@@ -5,7 +5,7 @@
 
 - ⌨ I'm currently working on [**ReactSprint**](https://github.com/ogreeni/reactsprint)
 
-- 🌱 I’m currently learning **Next.js 13**  
+- 🌱 I’m currently learning **Golang**  
   
 
 - ❓ Ask me about **React, Next.js, TypeScript, and TailwindCSS**  
