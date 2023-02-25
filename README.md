@@ -3,7 +3,6 @@
 
 - 📝 I regularly write articles on **www.omrigreen.com**  
 
-- ⌨ I'm currently working on [**ReactSprint**](https://github.com/ogreeni/reactsprint)
 
 - 🌱 I’m currently learning **Golang**  
   
