@@ -5,10 +5,7 @@
 
 
 - 🌱 I’m currently learning **Golang**  
-  
 
-- ❓ Ask me about **React, Next.js, TypeScript, and TailwindCSS**  
-  
 
 - 📫 How to reach me: **omri.green1@gmail.com**  
   
