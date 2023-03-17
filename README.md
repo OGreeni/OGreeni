@@ -1,7 +1,7 @@
   ### <div align="center">I'm Omri Green, a passionate full-stack developer based in NJ, USA 👨🏻‍💻</div>  
   
 
-- 📝 I regularly write articles on **omrigreen.com**  
+- 📝 I regularly write articles on [**omrigreen.com**](https://www.omrigreen.com)
 
 
 - 🌱 I’m currently learning **Golang**  
