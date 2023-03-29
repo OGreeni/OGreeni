@@ -10,9 +10,6 @@
 - 📫 How to reach me: **omri.green1@gmail.com**  
   
 
-- 📄 Learn about my experience: [**resume link**](https://docs.google.com/document/d/1eCyBGoi7sRN0WjCP0jcwRa7st46482TW3yceKPVI9n0/edit)  
-  
-
 <br/>  
 
 
