@@ -4,9 +4,6 @@
 - 📝 I regularly write articles on [**omrigreen.com**](https://www.omrigreen.com)
 
 
-- 🌱 I’m currently learning **Golang**  
-
-
 - 📫 How to reach me: **omri.green1@gmail.com**  
   
 
